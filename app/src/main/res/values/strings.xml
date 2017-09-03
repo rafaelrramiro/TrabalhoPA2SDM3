@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrabalhoPA2SDM3</string>
+    <string name="action_settings">Settings</string>
+    <string name="tittle_login">Login</string>
+
+    <string name="tittle_talks_fragment">Conversas</string>
+    <string name="tittle_contacts_fragment">Contatos</string>
+
+    <string name="text_nome_completo">Nome completo</string>
+
+    <string name="btn_continuar">Continuar</string>
+
+    <string name="msg_nome_incorreto">O nome inserido é inválido</string>
+    <string name="msg_login_error">Erro ao realizar seu cadastro</string>
+    <string name="title_activity_talk">TalkActivity</string>
+
+    <string name="title_new_message">Nova mensagem</string>
+
+</resources>
